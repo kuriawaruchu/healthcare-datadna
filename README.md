@@ -5,12 +5,12 @@
 - The National Healthcare Oversight Organization is carrying out an audit of hospitals across the United States.  
 - This analysis examines a dataset of 55,500 unique patient records from 10 major hospitals across the U.S. The dataset contains information about hospital admissions, medical conditions, medications, insurance providers, and treatment costs, offering a comprehensive view of the healthcare ecosystem.
 
-- ## **Problem Statement**
+## **Problem Statement**
 - Healthcare organizations face challenges in optimizing patient care while managing costs. 
 - Without data-driven insights, hospitals may struggle with resource allocation, treatment standardization, and identifying patterns in patient demographics and outcomes. 
 - This analysis addresses these challenges by extracting meaningful patterns from hospital data.
 
-- ## **Business Objectives**
+## **Business Objectives**
 1. **General Objective**
 - To leverage data analytics for improving healthcare decision-making, optimizing costs, and enhancing patient outcomes
 
