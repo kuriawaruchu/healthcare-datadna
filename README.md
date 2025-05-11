@@ -1,5 +1,5 @@
 # **Unlocking Healthcare Efficiency Patterns**
-## **Patients, Costs, and Outcomes**
+## ***Patients, Costs, and Outcomes***
 
 ## **Overview**
 - The National Healthcare Oversight Organization is carrying out an audit of hospitals across the United States.  
